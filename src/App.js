@@ -14,7 +14,7 @@ function App() {
 
   const ProtectedRoute = ({children}) => {
     if(!currentUser){
-      return <Navigate to='Chat-India-Web-App/login'/>
+      return <Navigate to='/Chat-India-Web-App/login'/>
     }
 
     return children
