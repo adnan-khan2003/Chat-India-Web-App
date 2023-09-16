@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Chat-India-Web-App/static/css/main.8913fc5c.css",
-    "main.js": "/Chat-India-Web-App/static/js/main.96d910f3.js",
+    "main.js": "/Chat-India-Web-App/static/js/main.5944b5d9.js",
     "static/js/787.7ea0274a.chunk.js": "/Chat-India-Web-App/static/js/787.7ea0274a.chunk.js",
     "index.html": "/Chat-India-Web-App/index.html",
     "static/media/add.svg": "/Chat-India-Web-App/static/media/add.2edff17ed4dff0eca6e5362a803ab730.svg",
@@ -10,11 +10,11 @@
     "static/media/attach.svg": "/Chat-India-Web-App/static/media/attach.f0e960945308063e21730417e4dc3806.svg",
     "static/media/more.svg": "/Chat-India-Web-App/static/media/more.c795f4c16c886a041cbb3a69bf239fc9.svg",
     "main.8913fc5c.css.map": "/Chat-India-Web-App/static/css/main.8913fc5c.css.map",
-    "main.96d910f3.js.map": "/Chat-India-Web-App/static/js/main.96d910f3.js.map",
+    "main.5944b5d9.js.map": "/Chat-India-Web-App/static/js/main.5944b5d9.js.map",
     "787.7ea0274a.chunk.js.map": "/Chat-India-Web-App/static/js/787.7ea0274a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8913fc5c.css",
-    "static/js/main.96d910f3.js"
+    "static/js/main.5944b5d9.js"
   ]
 }
