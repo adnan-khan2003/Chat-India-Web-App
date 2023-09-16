@@ -28,8 +28,8 @@ function App() {
             <ProtectedRoute>
               <Home />
             </ProtectedRoute>}/>
-            <Route path='Chat-India-Web-App/login' element= {<Login/>}/>
-            <Route path='Chat-India-Web-App/register' element= {<Register/>}/>
+            <Route path='/login' element= {<Login/>}/>
+            <Route path='/register' element= {<Register/>}/>
           </Route>
       </Routes>
     </BrowserRouter>
