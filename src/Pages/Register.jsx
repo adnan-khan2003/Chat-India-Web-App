@@ -80,7 +80,7 @@ const Register = () => {
             className="loginorsignup">Something went wrong</span>}
         </form>
         <p className="loginorsignup">
-          You do have an account? <Link to="/Chat-India-Web-App/login">Login</Link>
+          You do have an account? <Link to="/Chat-India-Web-App">Login</Link>
         </p>
       </div>
     </div>
