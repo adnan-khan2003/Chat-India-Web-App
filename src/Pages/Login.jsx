@@ -35,7 +35,7 @@ const Login = () => {
           {err && <span className="loginorsignup">Something went wrong</span>}
         </form>
         <p className="loginorsignup">
-          You don't have an account? <Link to="/register">Register</Link>
+          You don't have an account? <Link to="Chat-India-Web-App/register">Register</Link>
         </p>
       </div>
     </div>
