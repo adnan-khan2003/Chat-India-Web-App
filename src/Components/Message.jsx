@@ -1,28 +1,3 @@
-/*
-import React, { useContext } from 'react'
-import { AuthContext } from '../context/AuthContext'
-import { ChatContext } from '../context/ChatContext'
-const Message = ({message}) => {
-  const {currentUser} = useContext(AuthContext)
-  const {data} = useContext(ChatContext)
-  return (
-    <div className='message owner'>
-        { <div className="messageinfo"><img src={} alt="img" />
-        <span className="time">just now</span>
-        </div>
-        <div className="messagecontent">
-          <p className="receivedmsg">hello</p>
-          <img src="https://images.pexels.com/photos/5791753/pexels-photo-5791753.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="img" className="receivedimg" />
-        </div> }
-    </div>
-  )
-}
-
-export default Message
-*/
-
-
-
 import React, { useContext, useEffect, useRef } from "react";
 import { AuthContext } from "../context/AuthContext";
 import { ChatContext } from "../context/ChatContext";
